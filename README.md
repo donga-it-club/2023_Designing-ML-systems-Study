@@ -4,7 +4,7 @@
 ## 스터디 멤버
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
 - 공정민 ([Github](https://github.com/jeongmin59) / [Blog](https://ggong59.tistory.com/))
-- 김미래 ([Github](github.com/rlaalfo) / [Blog](alfo514.tistory.com))
+- 김미래 ([Github](https://github.com/rlaalfo) / [Blog](htt[s://alfo514.tistory.com))
 - 최원빈 ([Github](https://github.com/worsing/choiwonbin.github.io) / [Blog](https://worsing12.tistory.com/))
 
 ## 스터디 방식
