@@ -32,18 +32,22 @@
 - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1oH764vSvKiCmKlzYngM3FWhMcSb-jCAT/view?usp=sharing)
 
 ### 2주차 (23.07.03)
+- [학습내용] : ch.1 머신러닝 시스템 개요
+
+  - [정민 님 퀴즈] : [ch1_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936809/ch1_._.pptx)
+  - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_1-확인퀴즈-최승현.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936815/-.-.-.-CH_1-.pptx)
+  - [원빈 님 퀴즈] : [머신러닝스터디_01_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936810/_01_.pptx)
+
+  - [퀴즈 발표 영상] : [1주차 퀴즈 발표영상_구글드라이브](https://drive.google.com/file/d/1bIX7VJd4W0y8PGwRBJnK56jfSoYwYV2Y/view?usp=sharing)
+
+- ※ 미래님의 건강이슈로 인해 발표는 다음주에 진행
+
+### 3주차 (23.07.10)
 
 - [학습내용] : ch.1 머신러닝 시스템 개요
   - [발표자] : [김미래](https://alfo514.tistory.com/)
   - [발표자료] : 
   - [발표영상] :
-
-    - [정민 님 퀴즈] :
-    - [승현 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
-
-### 3주차 (23.07.10)
 
 - [학습내용] : ch.2 머신러닝 시스템 설계 소개
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
