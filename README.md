@@ -5,9 +5,7 @@
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
 - 공정민 ([Github](https://github.com/jeongmin59) / [Blog](https://ggong59.tistory.com/))
 - 최원빈 ([Github](https://github.com/worsing) / [Blog](https://worsing12.tistory.com/))
-
-### 07.10 까지 참여
-  - 김미래 ([Github](https://github.com/rlaalfo) / [Blog](https://alfo514.tistory.com/))
+- (07.10 까지 참여) 김미래 ([Github](https://github.com/rlaalfo) / [Blog](https://alfo514.tistory.com/))
  
 ## 스터디 방식
 
@@ -45,7 +43,7 @@
 
   - [퀴즈 발표 영상] : [1주차 퀴즈 발표영상_구글드라이브](https://drive.google.com/file/d/1bIX7VJd4W0y8PGwRBJnK56jfSoYwYV2Y/view?usp=sharing)
 
-- ※ 미래님의 건강이슈로 인해 발표는 다음주에 진행
+  ※ 미래님의 건강이슈로 인해 발표는 다음주에 진행
 
 ### 3주차 (23.07.10)
 
