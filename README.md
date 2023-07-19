@@ -66,12 +66,12 @@
 
 - [학습내용] : ch.2 머신러닝 시스템 설계 소개
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
-  - [발표자료] : 
+  - [발표자료] : [발표자료 블로그](https://worsing12.tistory.com/2)
   - [발표영상] :
   
 - [학습내용] : ch.3 데이터 엔지니어링 기초
   - [발표자] : [최승현](https://github.com/Vulter3653)
-  - [발표자료] : 
+  - [발표자료] : [발표자료 블로그](https://vulter3653.tistory.com/55)
   - [발표영상] :
   
     - [정민 님 퀴즈] :
