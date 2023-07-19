@@ -16,13 +16,19 @@
 - 발표자 외 스터디원은 퀴즈를 최소 3개 이상 준비하여 발표자의 발표가 끝나면 돌아가면서 퀴즈를 내고 맞추는 시간을 갖습니다.
 - 마지막으로 스터디에 대해 수정할 점, 개선할 점이 있으면 얘기를 나눈 후 마무리 됩니다.
 
-  1.원빈님 -> 승현님 -> 정민님 순서로 매주 발표 진행(23.07.10)
+- 발표순서 : 원빈님 -> 승현님 -> 정민님 순서로 매주 발표 진행(23.07.10)
 
 ## 스터디 규칙
 
 - 불가피한 사정이 아니면 가능한 참석합니다. 만약 사정이 있다면 **가능한 하루 전**에는 사정을 공유합니다
 - 모르는 것 , 도움이 되는 자료 등은 단톡방에서 서로 **공유**합니다
 - 스터디에 참여할 때, 가능한 모두 줌과 마이크를 켜고 **참여**합니다
+
+## 퀴즈 규칙 (23.07.19)
+
+1. 퀴즈의 경우, 각 문제에서 처음 맞추는 사람에게 1점을 부여합니다.
+2. 발표자가 아닌 참여자가 퀴즈에 대해 우선권을 갖습니다.
+3. 문제를 틀릴 경우, 다음 문제 우선권은 그 외 사람이 갖습니다.
 
 ## 스터디 진행 상황
 ### 1주차 (23.06.26)
@@ -52,31 +58,37 @@
   - [발표자료] : [발표자료_블로그](https://alfo514.tistory.com/26)
   - [발표영상] : [발표영상_구글드라이브](https://drive.google.com/file/d/1KlTWLsg_CI1QZef6DJOIC0qcagS3bXru/view?usp=sharing)
   
-    - [정민 님 퀴즈] : 
+    - [정민 님 퀴즈] : [ch2_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095504/ch2_._.pptx)
     - [미래 님 퀴즈] : 
     - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH-2-확인퀴즈-최승현](https://docs.google.com/presentation/d/1ZESeGVmVcA5DbpXtXFPT-MZMCEeec-Ea/edit?usp=sharing&ouid=117531564783426087885&rtpof=true&sd=true)
     - [퀴즈 발표 영상] : [2주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1nnuwQ8sAPH9oApknd-rjH7-80fERxfZn/view?usp=sharing)
 
 - [결정사항]
-  1. 미래님께서 다른 스터디로 인해 병행이 어려워 이번주까지만 진행
-  2. 5주차부터 퀴즈에 점수를 부여해 가장 점수가 높은 사람에게 기프티콘 증정
-  3. 원빈님 -> 승현님 -> 정민님 순서로 매주 발표 진행
+1. 미래님께서 다른 스터디로 인해 병행이 어려워 이번주까지만 진행
+2. 5주차부터 퀴즈에 점수를 부여해 가장 점수가 높은 사람에게 기프티콘 증정
+3. 원빈님 -> 승현님 -> 정민님 순서로 매주 발표 진행
   
-### 4주차 (23.07.17)
+### 4주차 (23.07.19)
 
 - [학습내용] : ch.2 머신러닝 시스템 설계 소개
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
   - [발표자료] : [발표자료_블로그](https://worsing12.tistory.com/2)
-  - [발표영상] :
+  - [발표영상] : [발표영상_구글드라이브](https://drive.google.com/file/d/1l1M3sa0-Wf9ZxxGhPmRkM7MwVgAoo_Kd/view?usp=sharing)
   
 - [학습내용] : ch.3 데이터 엔지니어링 기초
   - [발표자] : [최승현](https://github.com/Vulter3653)
   - [발표자료] : [발표자료_블로그](https://vulter3653.tistory.com/55)
-  - [발표영상] :
+  - [발표영상 1] : [발표영상_구글드라이브](https://drive.google.com/file/d/18-4TbTTp2BrWFoquqFGGe7AtVX4qUp1-/view?usp=sharing)
+  - [발표영상 2] : [발표영상_구글드라이브](https://drive.google.com/file/d/1GCWoHtsDc_gkg97Fg0luHY5FVDtwGnVu/view?usp=sharing)
   
-    - [정민 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
+    - [정민 님 퀴즈] : [ch3_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095502/ch3_._.pptx)
+    - [원빈 님 퀴즈] : [머신러닝스터디_03_퀴즈_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095500/_03_._.pptx)
+    - [퀴즈 발표 영상] : 퀴즈의 규칙 선정 및 시범운영으로 인해 미녹화
+   
+- [결정사항_퀴즈 규칙 결정]
+1. 퀴즈의 경우, 각 문제에서 처음 맞추는 사람에게 1점을 부여합니다.
+2. 발표자가 아닌 참여자가 퀴즈에 대해 우선권을 갖습니다.
+3. 문제를 틀릴 경우, 다음 문제 우선권은 그 외 사람이 갖습니다.
   
 ### 5주차 (23.07.24)
 
