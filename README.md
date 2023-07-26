@@ -94,12 +94,19 @@
 
 - [학습내용] : ch.4 훈련 데이터
   - [발표자] : [공정민](https://github.com/jeongmin59)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 PDF](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172426/4._._.pdf)
+  - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1TMe7CqYGdwQNODJ1ZtcYOM034haNaGg-/view?usp=sharing)
 
-    - [승현 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
+    - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_4-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172436/-.-.-.-CH_4-.pptx)
+    - [원빈 님 퀴즈] :[머신러닝스터디_04_퀴즈_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172439/_04_._.pptx)
+    - [퀴즈 발표 영상] : [5주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1YBpq1mNjXT6zLmhbkKcRpFie-Rv8EUHf/view?usp=sharing)
+
+- 퀴즈 총합 (이번주차 점수)
+   - 1등 : 공정민 총 3점 (+3)
+   - 2등 : 최원빈 총 2점 (+2)
+   - 3등 : 최승현 총 1점 (+1)
+     - 승현 님 퀴즈 정답자 : 1. 원빈 2. 원빈 3. 정민
+     - 원빈 님 퀴즈 정답자 : 1. 정민 2. 정민 3. 승현
 
 ### 6주차 (23.07.31)
 
