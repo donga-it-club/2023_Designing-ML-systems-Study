@@ -43,9 +43,9 @@
 ### 2주차 (23.07.03)
 - [학습내용] : ch.1 머신러닝 시스템 개요
 
-  - [정민 님 퀴즈] : [ch1_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936809/ch1_._.pptx)
-  - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_1-확인퀴즈-최승현.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936815/-.-.-.-CH_1-.pptx)
-  - [원빈 님 퀴즈] : [머신러닝스터디_01_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936810/_01_.pptx)
+  - [정민 님 퀴즈] : [ch1_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936809/ch1_._.pptx)
+  - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_1-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936815/-.-.-.-CH_1-.pptx)
+  - [원빈 님 퀴즈] : [머신러닝스터디_01_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936810/_01_.pptx)
 
   - [퀴즈 발표 영상] : [1주차 퀴즈 발표영상_구글드라이브](https://drive.google.com/file/d/1bIX7VJd4W0y8PGwRBJnK56jfSoYwYV2Y/view?usp=sharing)
 
@@ -58,7 +58,7 @@
   - [발표자료] : [발표자료_블로그](https://alfo514.tistory.com/26)
   - [발표영상] : [발표영상_구글드라이브](https://drive.google.com/file/d/1KlTWLsg_CI1QZef6DJOIC0qcagS3bXru/view?usp=sharing)
   
-    - [정민 님 퀴즈] : [ch2_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095504/ch2_._.pptx)
+    - [정민 님 퀴즈] : [ch2_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095504/ch2_._.pptx)
     - [미래 님 퀴즈] : 
     - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH-2-확인퀴즈-최승현](https://docs.google.com/presentation/d/1ZESeGVmVcA5DbpXtXFPT-MZMCEeec-Ea/edit?usp=sharing&ouid=117531564783426087885&rtpof=true&sd=true)
     - [퀴즈 발표 영상] : [2주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1nnuwQ8sAPH9oApknd-rjH7-80fERxfZn/view?usp=sharing)
@@ -81,8 +81,8 @@
   - [발표영상 1] : [발표영상_구글드라이브](https://drive.google.com/file/d/18-4TbTTp2BrWFoquqFGGe7AtVX4qUp1-/view?usp=sharing)
   - [발표영상 2] : [발표영상_구글드라이브](https://drive.google.com/file/d/1GCWoHtsDc_gkg97Fg0luHY5FVDtwGnVu/view?usp=sharing)
   
-    - [정민 님 퀴즈] : [ch3_공정민_퀴즈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095502/ch3_._.pptx)
-    - [원빈 님 퀴즈] : [머신러닝스터디_03_퀴즈_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095500/_03_._.pptx)
+    - [정민 님 퀴즈] : [ch3_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095502/ch3_._.pptx)
+    - [원빈 님 퀴즈] : [머신러닝스터디_03_퀴즈_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12095500/_03_._.pptx)
     - [퀴즈 발표 영상] : 퀴즈의 규칙 선정 및 시범운영으로 인해 미녹화
    
 - [결정사항_퀴즈 규칙 결정]
@@ -98,7 +98,7 @@
   - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1TMe7CqYGdwQNODJ1ZtcYOM034haNaGg-/view?usp=sharing)
 
     - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_4-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172436/-.-.-.-CH_4-.pptx)
-    - [원빈 님 퀴즈] :[머신러닝스터디_04_퀴즈_최원빈.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172439/_04_._.pptx)
+    - [원빈 님 퀴즈] :[머신러닝스터디_04_퀴즈_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12172439/_04_._.pptx)
     - [퀴즈 발표 영상] : [5주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1YBpq1mNjXT6zLmhbkKcRpFie-Rv8EUHf/view?usp=sharing)
 
 - 퀴즈 총합 (이번주차 점수)
@@ -112,8 +112,8 @@
 
 - [학습내용] : ch.5 피처엔지니어링
  
-    - [정민 님 퀴즈] :[ch5_공정민_퀴즈.pdf](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215233/ch5_._.pdf)
-    - [승현 님 퀴즈] :[머신러닝-시스템-설계-스터디-CH_5-확인퀴즈-최승현.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215239/-.-.-.-CH_5-.pptx)
+    - [정민 님 퀴즈] :[ch5_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215233/ch5_._.pdf)
+    - [승현 님 퀴즈] :[머신러닝-시스템-설계-스터디-CH_5-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215239/-.-.-.-CH_5-.pptx)
 
     - [퀴즈 발표 영상] : [6주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/19MXQX1wwnfJhI4A97dIJ7Bdc-YuLNOo2/view?usp=sharing)
 
