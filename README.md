@@ -111,15 +111,27 @@
 ### 6주차 (23.07.31)
 
 - [학습내용] : ch.5 피처엔지니어링
+ 
+    - [정민 님 퀴즈] :[ch5_공정민_퀴즈.pdf](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215233/ch5_._.pdf)
+    - [승현 님 퀴즈] :[머신러닝-시스템-설계-스터디-CH_5-확인퀴즈-최승현.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215239/-.-.-.-CH_5-.pptx)
+
+    - [퀴즈 발표 영상] : [6주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/19MXQX1wwnfJhI4A97dIJ7Bdc-YuLNOo2/view?usp=sharing)
+
+※ 시스템 이슈로 인해 원빈님 발표는 다음주에 진행
+  
+- 퀴즈 총합 (이번주차 점수)
+   - 공동 1등 : 공정민 총 5점 (+2)
+   - 공동 1등 : 최원빈 총 5점 (+3)
+   - 3등 : 최승현 총 2점 (+1)
+     - 정민 님 퀴즈 정답자 : 1. 원빈 2. 승현 3. 원빈
+     - 승현 님 퀴즈 정답자 : 1. 정민 2. 원빈 3. 정민
+       
+### 7주차 (23.08.07)
+
+- [학습내용] : ch.5 피처엔지니어링
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
   - [발표자료] : 
   - [발표영상] :
-  
-    - [정민 님 퀴즈] :
-    - [승현 님 퀴즈] :
-    - [퀴즈 발표 영상] :
-    
-### 7주차 (23.08.07)
 
 - [학습내용] : ch.6 모델 개발과 오프라인 평가
   - [발표자] : [최승현](https://github.com/Vulter3653)
