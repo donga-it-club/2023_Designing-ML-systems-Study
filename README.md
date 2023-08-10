@@ -130,17 +130,24 @@
 
 - [학습내용] : ch.5 피처엔지니어링
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 블로그](https://worsing12.tistory.com/3)
+  - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1ALibHy6KnLoOAbMDicoz_Dh1AqYU6ZSC/view?usp=sharing)
 
 - [학습내용] : ch.6 모델 개발과 오프라인 평가
   - [발표자] : [최승현](https://github.com/Vulter3653)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 블로그](https://vulter3653.tistory.com/62)
+  - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1nzhwXNYLWnIC73cdEP2_QD9jn8-QMx55/view?usp=sharing)
   
-    - [정민 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
+    - [정민 님 퀴즈] :[ch6_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12313073/ch6_._.pdf)
+    - [원빈 님 퀴즈] :[머신러닝스터디_06_퀴즈_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12313075/_06_._.pdf)
+    - [퀴즈 발표 영상] : [7주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1nO3xrfeLGLLbAocwjW0rBqldKtrd8WfZ/view?usp=sharing)
+   
+- 퀴즈 총합 (이번주차 점수)
+   - 1등 : 공정민 총 7점 (+2)
+   - 2등 : 최원빈 총 6점 (+1)
+   - 3등 : 최승현 총 5점 (+3)
+     - 정민 님 퀴즈 정답자 : 1. 승현 2. 원빈 3. 승현
+     - 원빈 님 퀴즈 정답자 : 1. 원빈 2. 승현 3. 정민
     
 ### 8주차 (23.08.14)
 
