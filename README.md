@@ -46,7 +46,6 @@
   - [정민 님 퀴즈] : [ch1_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936809/ch1_._.pptx)
   - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_1-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936815/-.-.-.-CH_1-.pptx)
   - [원빈 님 퀴즈] : [머신러닝스터디_01_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/11936810/_01_.pptx)
-
   - [퀴즈 발표 영상] : [1주차 퀴즈 발표영상_구글드라이브](https://drive.google.com/file/d/1bIX7VJd4W0y8PGwRBJnK56jfSoYwYV2Y/view?usp=sharing)
 
   ※ 미래님의 건강이슈로 인해 발표는 다음주에 진행
@@ -114,7 +113,6 @@
  
     - [정민 님 퀴즈] :[ch5_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215233/ch5_._.pdf)
     - [승현 님 퀴즈] :[머신러닝-시스템-설계-스터디-CH_5-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12215239/-.-.-.-CH_5-.pptx)
-
     - [퀴즈 발표 영상] : [6주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/19MXQX1wwnfJhI4A97dIJ7Bdc-YuLNOo2/view?usp=sharing)
 
 ※ 시스템 이슈로 인해 원빈님 발표는 다음주에 진행
@@ -149,18 +147,29 @@
      - 정민 님 퀴즈 정답자 : 1. 승현 2. 원빈 3. 승현
      - 원빈 님 퀴즈 정답자 : 1. 원빈 2. 승현 3. 정민
     
-### 8주차 (23.08.14)
+### 8주차 (23.08.16)
+
+- [학습내용] : ch.7 모델 배포와 예측 서비스
+
+    - [승현 님 퀴즈] :[머신러닝-시스템-설계-스터디-CH_7-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12358981/-.-.-.-CH_7-.pptx)
+    - [원빈 님 퀴즈] :[머신러닝스터디_07_퀴즈_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12358977/_07_._.pdf)
+    - [퀴즈 발표 영상] : [8주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1fuQNsMYwdCXWyVyK8ay_iXhFzxk0U9I8/view?usp=sharing)
+
+※ 발표 진행 중 마이크 이슈로 인해 정민님 발표는 다음주에 진행
+  
+- 퀴즈 총합 (이번주차 점수)
+   - 1등 : 공정민 총 11점 (+4)
+   - 2등 : 최승현 총 7점 (+2)
+   - 3등 : 최원빈 총 6점 (+0)
+     - 승현 님 퀴즈 정답자 : 1. 정민 2. 정민 3. 정민
+     - 원빈 님 퀴즈 정답자 : 1. 승현 2. 승현 3. 정민
+ 
+### 9주차 (23.08.21)
 
 - [학습내용] : ch.7 모델 배포와 예측 서비스
   - [발표자] : [공정민](https://github.com/jeongmin59)
   - [발표자료] : 
   - [발표영상] :
-  
-    - [승현 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
-  
-### 9주차 (23.08.21)
 
 - [학습내용] : ch.8 데이터 분포 시프트와 모니터링
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
@@ -196,7 +205,7 @@
 ### 12주차 (23.09.11)
 
 - [학습내용] : ch.11 머신러닝의 인간적 측면
-  - [발표자] : [최원빈](https://worsing12.tistory.com/)
+  - [발표자] : [최승현](https://github.com/Vulter3653)
   - [발표자료] : 
   - [발표영상] :
   
