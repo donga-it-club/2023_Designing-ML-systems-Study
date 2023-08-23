@@ -168,18 +168,26 @@
 
 - [학습내용] : ch.7 모델 배포와 예측 서비스
   - [발표자] : [공정민](https://github.com/jeongmin59)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 노션]
+  - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1OblEti3DyG1b2hUanCufxJPXh14pTj8y/view?usp=sharing)
 
 - [학습내용] : ch.8 데이터 분포 시프트와 모니터링
   - [발표자] : [최원빈](https://worsing12.tistory.com/)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 블로그](https://worsing12.tistory.com/4)
+  - [발표영상] : [발표영상 구글드라이브](https://drive.google.com/file/d/1ImuMKus6Ahu9JkIgh1Sqelppf0d_b6Cm/view?usp=sharing)
   
     - [정민 님 퀴즈] :
-    - [승현 님 퀴즈] :
-    - [퀴즈 발표 영상] :
-    
+    - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_8-확인퀴즈-최승현.pptx](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12419409/-.-.-.-CH_8-.pptx)
+
+    - [퀴즈 발표 영상] : [8주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1FGnuQ2EQjdReHuPAr1UTPwiq3OD5o9X1/view?usp=sharing)
+
+- 퀴즈 총합 (이번주차 점수)
+   - 1등 : 공정민 총 13점 (+2)
+   - 2등 : 최원빈 총 9점 (+3)
+   - 3등 : 최승현 총 8점 (+1)
+     - 정민 님 퀴즈 정답자 : 1. 승현 2. 원빈 3. 원빈
+     - 승현 님 퀴즈 정답자 : 1. 정민 2. 정민 3. 원빈
+  
 ### 10주차 (23.08.28)
 
 - [학습내용] : ch.9 연속 학습과 프로덕션 테스트
