@@ -180,7 +180,7 @@
     - [정민 님 퀴즈] :[ch8_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12420060/ch8_._.pdf)
     - [승현 님 퀴즈] : [머신러닝-시스템-설계-스터디-CH_8-확인퀴즈-최승현](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12419409/-.-.-.-CH_8-.pptx)
 
-    - [퀴즈 발표 영상] : [8주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1FGnuQ2EQjdReHuPAr1UTPwiq3OD5o9X1/view?usp=sharing)
+    - [퀴즈 발표 영상] : [9주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1FGnuQ2EQjdReHuPAr1UTPwiq3OD5o9X1/view?usp=sharing)
 
 - 퀴즈 총합 (이번주차 점수)
    - 1등 : 공정민 총 13점 (+2)
@@ -189,18 +189,25 @@
      - 정민 님 퀴즈 정답자 : 1. 승현 2. 원빈 3. 원빈
      - 승현 님 퀴즈 정답자 : 1. 정민 2. 정민 3. 원빈
   
-### 10주차 (23.08.28)
+### 10주차 (23.08.31)
 
 - [학습내용] : ch.9 연속 학습과 프로덕션 테스트
   - [발표자] : [최승현](https://github.com/Vulter3653)
-  - [발표자료] : 
-  - [발표영상] :
+  - [발표자료] : [발표자료 블로그](https://vulter3653.tistory.com/69)
+  - [발표영상] : [발표영상1 구글드라이브](https://drive.google.com/file/d/1XtUTQevaxDCLF94KXGP6hzHQg5dhECFU/view?usp=sharing) , [발표영상2 구글드라이브](https://drive.google.com/file/d/1NkNVRLTO5R0TMKhBqwR4PQKvM-cRe3y3/view?usp=sharing)
   
-    - [정민 님 퀴즈] :
-    - [원빈 님 퀴즈] :
-    - [퀴즈 발표 영상] :
+    - [정민 님 퀴즈] : [ch9_공정민_퀴즈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12672968/ch9_._.pdf)
+    - [원빈 님 퀴즈] :[머신러닝스터디_09_퀴즈_최원빈](https://github.com/donga-it-club/2023_Designing-ML-systems-Study/files/12672972/_09_._.pdf)
+    - [퀴즈 발표 영상] : [10주차 퀴즈 발표영상 구글드라이브](https://drive.google.com/file/d/1OvAYR1ckY6BaaLu4TWwLgMEhgIlvnCEp/view?usp=sharing)
+
+- 퀴즈 총합 (이번주차 점수)
+  - 1등 : 공정민 총 13점 (+1)
+  - 공동 2등 : 최원빈 총 11점 (+2)
+  - 공동 2등 : 최승현 총 11점 (+3)
+    - 정민 님 퀴즈 정답자 : 1. 원빈 2. 승현 3. 원빈
+    - 원빈 님 퀴즈 정답자 : 1. 정민 2. 승현 3. 승현
   
-### 11주차 (23.09.04)
+### 11주차 (23.09.20)
 
 - [학습내용] : ch.10 MLOps를 위한 인프라와 도구
   - [발표자] : [공정민](https://github.com/jeongmin59)
@@ -211,7 +218,7 @@
     - [원빈 님 퀴즈] :
     - [퀴즈 발표 영상] :
   
-### 12주차 (23.09.11)
+### 12주차 (23.09.25)
 
 - [학습내용] : ch.11 머신러닝의 인간적 측면
   - [발표자] : [최승현](https://github.com/Vulter3653)
